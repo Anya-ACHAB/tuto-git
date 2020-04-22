@@ -1,0 +1,14 @@
+> git add fichier / git add ./ git add *.txt
+>git commuit -m "un commentaire"
+ crée un fichier .gitignore 
+le modier en ecrivant le fichier qu'on veut ignorer => on fait un commit
+
+>git log
+>git log -n1/2 pour voir le dernier ou les deux deniers commit
+>git log --online afficher les commit en une seule ligne 
+>git log -p nom du fichier pour voir les modifications apportées au fichier 
+>git help log 
+ 
+>git revert idcommit   annulé les modification/suppression 
+
+>git branch        pour savoir dans quel on est
